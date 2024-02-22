@@ -1,0 +1,29 @@
+📌 Plan de Acción para el Proyecto de Ciencia de Redes 📌
+Tenemos ree poquito time se me hace, pero bueno. Propongo lo siguiente: 
+¡Holanda!  Para garantizar que avanzamos eficientemente y cumplimos con nuestro proyecto a tiempo y con la mayor calidad, he aquí nuestro plan revisado:
+
+🗓️ Día 1 (22 de febrero):
+
+Tarea individual: Cada uno de nosotros propondrá un tema de proyecto. La propuesta debe incluir una breve descripción, justificación basada en los criterios de la tarea (viabilidad, posibilidad de construir una red, etc.), y al menos una referencia bibliográfica que soporte la idea.
+Formato de entrega: Un breve documento, Youtube, slides con la propuesta y una bibliografía base pa consultar rápidito.
+🗓️ Día 2 (23 de febrero):
+
+Reunión inicial (Hora a definir): Debatiremos las propuestas de temas y seleccionaremos el problema. Distribuiremos las tareas para la revisión de literatura y la definición del conjunto de datos.
+🗓️ Día 3 (24 de febrero):
+
+Inicio de la Revisión de Literatura y Estudio de Caso: Cada miembro comenzará a trabajar en su sección asignada, buscando información adicional y profundizando en el contexto del problema seleccionado.
+🗓️ Día 4 (25 de febrero):
+
+Esbozo del Enfoque de Ciencia de Redes y Contribuciones: Definiremos cómo aplicaremos los métodos de ciencia de redes y detallaremos las contribuciones de cada miembro.
+🗓️ Día 5 (26 de febrero):
+
+Redacción del Informe y Preparación de la Presentación: Iniciaremos la redacción del informe y la creación de las diapositivas de la presentación.
+🗓️ Día 6 (27 de febrero):
+
+Revisión Final: Revisaremos y ajustaremos el informe y la presentación, asegurándonos de que todo esté listo para la entrega.
+🗓️ Día 7 (28 de febrero):
+
+Entrega y Presentación: Subiremos el informe y la presentación antes de las 4:00 pm y nos prepararemos para presentar en clase.
+
+¿Sugerencias coments?
+Felíz día, creo que crear un repo de github pa guardar las cosas es el camino sin tener problemas con los dominios de los correos etc. 
